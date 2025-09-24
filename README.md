@@ -9,14 +9,7 @@ Aplicación web para gestionar una lista de amigos y realizar un sorteo aleatori
 - Sorteo aleatorio mostrando el resultado en la página.
 
 ## 📂 Estructura del proyecto
-amigo-secreto/
-│── assets/
-│ ├── amigo-secreto.png
-│ └── play_circle_outline.png
-│── index.html
-│── style.css
-│── app.js
-│── README.md
+<pre> ```plaintext amigo-secreto/ │── assets/ │ ├── amigo-secreto.png │ └── play_circle_outline.png │── index.html │── style.css │── app.js │── README.md ``` </pre>
 
 
 ## 🖥️ Uso
